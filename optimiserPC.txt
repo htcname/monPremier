@@ -1,0 +1,13 @@
+
+disque dure 
+-> proprietes
+coché desindexes fichier
+
+services 
+windows search
+superfetch ou Sysmain
+
+
+
+C:\Users\abi-sensei\AppData\Local\Temp
+C:\Users\abi-sensei\AppData\Roaming\Adobe\Common
