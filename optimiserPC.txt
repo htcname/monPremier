@@ -11,3 +11,4 @@ superfetch ou Sysmain
 C:\Users\abi-sensei\AppData\Local\Temp
 C:\Users\abi-sensei\AppData\Roaming\Adobe\Common
 modifier
+modifier
